@@ -1,1 +1,1 @@
-git 
+github is used to push and pull files on browser 
